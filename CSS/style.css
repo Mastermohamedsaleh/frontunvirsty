@@ -4,12 +4,15 @@
 /*----shortcuts------*/
 
 
+<<<<<<< HEAD
 .navbar-total{
 	z-index: 456;
 }
 
 
 
+=======
+>>>>>>> 1771d22249286506a1f99b5be4b1a8368d97dc8a
 .header-top {
     background-color: #223d50; }
 
@@ -246,7 +249,11 @@ ul li a{
 		display: inline-block;
 		padding: 0 0 0 4.375rem;
 		margin: 1.25rem 0;
+<<<<<<< HEAD
 		/* z-index: 3; */
+=======
+		z-index: 3;
+>>>>>>> 1771d22249286506a1f99b5be4b1a8368d97dc8a
 		position: relative;
 	 }
 		/* .bg-se-01 .content ol li:nth-child(4)::after {
@@ -273,7 +280,11 @@ ul li a{
 		  justify-content: center;
 		  left: 0;
 		  border-radius: 50%;
+<<<<<<< HEAD
 		  /* z-index: 2; */
+=======
+		  z-index: 2;
+>>>>>>> 1771d22249286506a1f99b5be4b1a8368d97dc8a
 		  box-shadow: 0 0 0.0625rem 0.375rem #dfe7ff; 
 		}
 		.bg-se-01 .content ol li::after {
@@ -284,8 +295,12 @@ ul li a{
 		  top: 2.5rem;
 		  left: 1.5625rem;
 		  background: #dfe7ff;
+<<<<<<< HEAD
 		  /* z-index: 1;   */
 		}
+=======
+		  z-index: 1; }
+>>>>>>> 1771d22249286506a1f99b5be4b1a8368d97dc8a
 		.bg-se-01 .content ol li h3 {
 		  font-size: 1.25rem;
 		  font-weight: 700;
@@ -331,9 +346,12 @@ ul li a{
 	Footer
 \*------------------------------------*/
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 1771d22249286506a1f99b5be4b1a8368d97dc8a
 #bottom-footer {
 	margin-top: 20px;
 	padding-top: 20px;
@@ -373,7 +391,23 @@ ul li a{
 	color:#1f60dd;
 }
 
+<<<<<<< HEAD
 
+=======
+/* .footer-nav li a:after {
+	content:"";
+	display:block;
+	height:2px;
+	background-color:#007bb5;
+	width:100%;
+	-webkit-transform: translateY(5px);
+	    -ms-transform: translateY(5px);
+	        transform: translateY(5px);
+	opacity:0;
+	-webkit-transition:0.2s all;
+	transition:0.2s all;
+} */
+>>>>>>> 1771d22249286506a1f99b5be4b1a8368d97dc8a
 
 .footer-nav li a:hover:after , .footer-nav li a:focus:after {
 	-webkit-transform: translateY(0px);
@@ -500,6 +534,7 @@ ul li a{
 	opacity:1;
 }
 
+<<<<<<< HEAD
 /* Botton Contact Us */
 
 
@@ -720,3 +755,6 @@ z-index: 9; }
   /* ===================================== Our Instructers Style CSS ================================== */
 
 /* end Course */
+=======
+/* Botton Contact Us */
+>>>>>>> 1771d22249286506a1f99b5be4b1a8368d97dc8a
